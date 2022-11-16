@@ -15,4 +15,5 @@ In the project directory, you can run:
 # youtube_app
 
 This is a project using Rapid API of youtube (https://rapidapi.com/ytdlfree/api/youtube-v31/) with fetch request
+
 It's hosting on netlify : https://snazzy-gelato-e43fbe.netlify.app/
